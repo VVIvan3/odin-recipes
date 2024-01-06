@@ -22,6 +22,7 @@ body {
 .list {
     font-weight: lighter;
     font-family: 'Franklin Gothic Medium', sans-serif;
+
 }
 
 .desc {
@@ -45,4 +46,17 @@ img {
     margin: 0 auto;
     display: block;
     border: black dotted 3px;
+}
+
+ul li {
+    padding-bottom: 10px;
+}
+
+ol li {
+    padding-bottom: 15px;
+}
+
+ul li,
+ol li {
+    font-size: 18px;
 }
