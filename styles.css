@@ -1,0 +1,33 @@
+body {
+    background-color: rgba(147, 150, 7, 0.377);
+    color: rgb(255, 72, 0);
+}
+
+.title {
+    text-align: center;
+    background-color: rgba(11, 165, 93, 0.199);
+    font-weight: 900;
+}
+
+.mainlink {
+    font-weight: bold;
+    font-family: Verdana, sans-serif;
+    color: rgb(255, 81, 0);
+}
+
+.list {
+    font-weight: lighter;
+    font-family: 'Franklin Gothic Medium', sans-serif;
+}
+
+.desc {
+    text-align: center;
+    font-family: Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+.return {
+    color:rgb(255, 30, 0);
+    font-weight: 1000;
+    text-align: center;
+}
